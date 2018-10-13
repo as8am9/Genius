@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Are You a Genius?</string>
+    <string name="no_1">1-What is the 4 digit number in which the first digit is one fifth the last, and the second and the third digits are the last digit multiplied by three ?</string>
+    <string name="no_2">"2-Jane went to visit Jill,Jill is Jane's only husband's only daughter's only daughter.what relation is Jill to Jane ?"</string>
+    <string name="no_3">"3-Which of the words below is least like the others ? (Hint: The difference has nothing to do with vowels, consonants, or syllables) "</string>
+    <string name="no_4">"4-Which of the follow are fruits ?"</string>
+    <string name="no_5">"5-What is the number that is one more than one-tenth of one-fifth of one-half of 4,000 ?"</string>
+    <string name="no_6">"6-In a race, Jerry wasn't first or last. Janet beat Jerry, Jerry beat Pat. Charlie wasn't first or last.Charlie beat Rachel.Pat beat Charlie.Who came in last ?"</string>
+    <string name="no_7">"7-Find the number that best completes the following sequence:1 2 4 7 11 22 ?"</string>
+    <string name="no_8">"8-Marian bought 4 oranges and 3 lemons for 90$.the next day she bought 3 oranges and 4 lemons for 85$. how much did each lemon and orange cost ?"</string>
+    <string name="no_9">"9-Start with the number of total mittens 3 Kittens lost, and multiply by the voting age in the U.S. What's the answer ?"</string>
+    <string name="ans_8_1">oranges cost 10$ each and lemons cost 15$ each</string>
+    <string name="ans_8_2">oranges cost 15$ each and lemons cost 10$ each</string>
+    <string name="ans_8_3">oranges cost 5$ each and lemons cost 15$ each</string>
+    <string name="ans_8_4">oranges cost 5$ each and lemons cost 20$ each</string>
+    <string name="no_10">10-Complete this series of numbers: 9 = 4, 21 = 9, 22 = 9, 24 = 10, 8 = 5, 7 = 5, 99 = 10, 100 = 7, 16 =??</string>
+
+</resources>
